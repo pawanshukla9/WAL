@@ -1,0 +1,11 @@
+product_id,product_name,product_fit,product_category,product_price,product_composition,kind
+e481f51cbdc54678b7cc49136f2d6001,oversized t-shirt,oversized,women,$19.99,cotton,insert
+e481f51cbdc54678b7cc49136f2d6002,cotton t-shirt,true to size,women,$9.99,cotton,insert
+e481f51cbdc54678b7cc49136f2d6003,ribbed henley t-shirt,fitted,women,$17.99,cotton,insert
+e481f51cbdc54678b7cc49136f2d6004,smocked crop top,fitted,women,$29.99,cotton,insert
+e481f51cbdc54678b7cc49136f2d6005,printed t-shirt,fitted,women,$19.99,cotton,insert
+e481f51cbdc54678b7cc49136f2d6005,printed t-shirt,fitted,women,$15.99,cotton,update
+e481f51cbdc54678b7cc49136f2d6005,printed t-shirt,fitted,women,$16.99,cotton,update
+e481f51cbdc54678b7cc49136f2d6006,linen t-shirt,fitted,women,$29.99,cotton,insert
+e481f51cbdc54678b7cc49136f2d6005,printed t-shirt,fitted,women,$20.99,cotton,update
+e481f51cbdc54678b7cc49136f2d6005,printed t-shirt,fitted,women,$19.99,cotton,update
